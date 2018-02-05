@@ -1,0 +1,91 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.30027,48.843222 ]
+    },
+    "properties": {
+    "Professionnels":"Arnoux-Boulogne Chloe",
+    "adresse_complete":"56 rue Mademoiselle",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656834,
+    "categorie_de_l_etablissement":"Osteopathe",
+    "num_type":2,
+    "wgs84":"48.843222, 2.30027"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302931,48.848462 ]
+    },
+    "properties": {
+    "Professionnels":"Brassens Raphael ",
+    "adresse_complete":"37 avenue de Lowendal ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653521,
+    "categorie_de_l_etablissement":"Osteopathe",
+    "num_type":2,
+    "wgs84":"48.848462, 2.302931"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.296692,48.838483 ]
+    },
+    "properties": {
+    "Professionnels":"Herve Emma",
+    "adresse_complete":"12 rue Ferdinand Fabre",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653624,
+    "categorie_de_l_etablissement":"Osteopathe",
+    "num_type":2,
+    "wgs84":"48.838483, 2.296692"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.287957,48.845819 ]
+    },
+    "properties": {
+    "Professionnels":"Regis Celine",
+    "adresse_complete":"74 rue de Lourmel",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653583,
+    "categorie_de_l_etablissement":"Ostheopathe",
+    "num_type":2,
+    "wgs84":"48.845819, 2.287957"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.284819,48.846074 ]
+    },
+    "properties": {
+    "Professionnels":"Metoudi Anthony",
+    "adresse_complete":"94 rue Saint Charles",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656832,
+    "categorie_de_l_etablissement":"Osteopathe",
+    "num_type":2,
+    "wgs84":"48.846074, 2.284819"
+    }
+  }
+]
+}
+

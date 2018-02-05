@@ -1,0 +1,44 @@
+body
+{
+	/*background-image: url('/img/fond.jpg');*/
+	
+   
+}
+
+
+.navbar
+{
+	background-color:#2bfcc9;
+	position: fixed;
+	font-family: 'Amatic SC';
+	top: 0;
+	
+}
+
+.row{
+	margin-top: 15%;
+	display: flex;
+	justify-content: center;
+}
+
+.logo_nav-bare
+{
+
+	height:10%;
+	
+}
+
+h1
+{
+	font-size: 350%;
+	color:black;
+	margin-left:-30%;
+
+}
+
+h2
+{
+	font-size: 250%;
+	color:black;
+	margin-left:-30%;
+}

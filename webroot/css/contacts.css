@@ -1,0 +1,206 @@
+.logo_nav-bare
+{
+
+	height:10%;
+	margin-left:15%;
+}
+
+.navbar
+{
+	background-color:#2bfcc9;
+	position: fixed;
+	font-family: 'Amatic SC';
+
+	top: 0;
+
+}
+h1:hover
+{
+	color:red;
+}
+
+h1
+{
+	color:black;
+
+}
+body{
+	background-image: url('/img/fond.jpg');
+}
+
+
+
+
+#conteneur{
+
+	background-color:#F8F8F8; 
+	border-style: solid;
+	border-color:#2bfcc9; 
+
+}
+
+#photo_profil{
+	width:100%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+}
+
+.nom
+{
+	background-color: #2bfcc9;
+	text-align: center;
+
+
+}
+
+#infos{
+	margin-bottom: 5%;
+	margin-left: -20%;
+}
+
+.btn
+{
+	color: #fff;
+ 	background-color: #2bfcc9;
+  	border-color: #2bfcc9;
+  	width: 50%;
+  	font-size: 150%;
+
+}
+.btn-default:hover
+{
+	color: #fff;
+  	background-color: red;
+  	border-color:red;
+
+}
+.btn-primary:hover
+{
+	color: #fff;
+  	background-color: green;
+  	border-color:green;
+
+}
+
+.modif
+{
+	margin-left: 18%;
+}
+
+#icon
+{
+	width:15%;
+	margin-right: 2%;
+}
+li{
+	list-style-type: none;
+}
+
+.corps_bas{
+  margin-top:10%;
+}
+
+.contenu_droit{
+   /*font-family:'roboto';*/
+   padding-bottom:5%;
+   padding-left:2%;
+    padding-right:3%;
+   background-color:  #F8F8F8;
+
+}
+
+.map{
+  height: 500px;
+
+}
+
+#info-box{
+  padding-left : 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-style: solid;
+  border-color: #2bfcc9;
+
+  background-color: #F8F8F8;
+}
+#info-box2{
+  padding-left : 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+#info-box3{
+  padding-left : 3px;
+  padding-top: 15px;
+  padding-bottom: 5px;
+  font-size: 18px;
+}
+#duree,
+#mode-transport{
+  margin-top: 6px;
+}
+
+p{
+  margin: 0px;
+}
+u{
+  text-align: center;
+}
+img{
+  padding: 0;
+  margin: 0;
+}
+#Gauche{
+  width: 15%;
+  background-color: #F8F8F8;
+  padding: 15px;
+  border: solid ;
+  border-color:#2BFCC9 ;
+}
+#Droite{
+  width: 75%;
+  background-color: yellow;
+}
+#EmplacementDeMaCarte {
+  width: 100%;
+  border: 3px solid #2BFCC9;
+  border-collapse: collapse;
+}
+
+
+#origin-input,
+#destination-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 12px;
+  margin-top: 12px;
+  padding: 0 11px 0 13px;
+  text-overflow: ellipsis;
+  width: 170px;
+}
+
+#origin-input:focus,
+#destination-input:focus {
+  border: 4px solid #2BFCC9;
+}
+
+#mode-selector {
+  color: #fff;
+  background-color: #4d90fe;
+  margin-left: 12px;
+  margin-top: 12px;
+  padding: 3px 6px 3px 3px;
+}
+
+#mode-selector label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+}
+#image_med{
+  width:30%;
+}
+

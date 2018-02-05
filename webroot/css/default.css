@@ -1,0 +1,31 @@
+@font-face {
+    font-family :'AmaticSC';
+    src:url('/fonts/Amatic.otf') format('otf'),
+        url('/fonts/AmaticSC-Bold.ttf') format('truetype');
+}
+
+
+footer
+{
+	background-color:#2bfcc9;
+	position: fixed;
+	bottom: 0;
+	height:5%;
+	width: 100%;
+	color:black;
+	font-family: 'Amatic SC';
+	font-size: x-large;
+	font-weight:bold;
+	text-align:center;
+	
+
+}
+
+body
+{
+ 	font-family: Roboto;
+ 	font-weight: normal;
+ 	margin-bottom: 110px;
+	margin-top:8%;
+	
+}

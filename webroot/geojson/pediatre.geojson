@@ -1,0 +1,90 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.291854,48.848572 ]
+    },
+    "properties": {
+    "Professionnels":"Rathery Sophie",
+    "adresse_complete":"8 bis rue Fondary ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656678,
+    "categorie_de_l_etablissement":"Pediatre ",
+    "num_type":3,
+    "wgs84":"48.848572, 2.291854"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302774,48.836631 ]
+    },
+    "properties": {
+    "Professionnels":"Benkhatar Marie ",
+    "adresse_complete":"40 rue d'alleray ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653611,
+    "categorie_de_l_etablissement":"Pediatre ",
+    "num_type":3,
+    "wgs84":"48.836631, 2.302774"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.299247,48.852004 ]
+    },
+    "properties": {
+    "Professionnels":"Cohen Haim",
+    "adresse_complete":"76 bis avenue de suffren ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891652621,
+    "categorie_de_l_etablissement":"Pediatre ",
+    "num_type":3,
+    "wgs84":"48.852004, 2.299247"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.283044,48.843431 ]
+    },
+    "properties": {
+    "Professionnels":"Dumurgier Elisabeth",
+    "adresse_complete":"57 rue de la Convention ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656699,
+    "categorie_de_l_etablissement":"Pediatre ",
+    "num_type":3,
+    "wgs84":"48.843431, 2.283044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302366,48.839384 ]
+    },
+    "properties": {
+    "Professionnels":"Brouard Jean-Jacques ",
+    "adresse_complete":"277 rue de Vaugirard",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656749,
+    "categorie_de_l_etablissement":"Pediatre ",
+    "num_type":3,
+    "wgs84":"48.839384, 2.302366"
+    }
+  }
+]
+}

@@ -1,0 +1,203 @@
+body{
+	background-image: url('/img/fond.jpg');
+	
+}
+.logo_nav-bare
+{
+
+	height:10%;
+	margin-left:15%;
+}
+
+.navbar
+{
+	background-color:#2bfcc9;
+	position: fixed;
+	font-family: 'Amatic SC';
+	top: 0;
+
+}
+
+h1:hover
+{
+	color:red;
+}
+
+h1
+{
+	color:black;
+
+}
+
+
+#conteneur{
+
+	background-color:#F8F8F8; 
+	border-style: solid;
+	border-color:#2bfcc9; 
+
+}
+
+#photo_profil{
+	width:100%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+}
+
+.nom
+{
+	background-color: #2bfcc9;
+	text-align: center;
+
+
+}
+
+#infos{
+	margin-bottom: 5%;
+	margin-left: -20%;
+}
+
+.btn
+{
+	color: #fff;
+ 	background-color: #2bfcc9;
+  	border-color: #2bfcc9;
+  	width: 50%;
+  	font-size: 150%;
+
+}
+.btn-default:hover
+{
+	color: #fff;
+  	background-color: red;
+  	border-color:red;
+
+}
+.btn-primary:hover
+{
+	color: #fff;
+  	background-color: green;
+  	border-color:green;
+
+}
+
+.modif
+{
+	margin-left: 18%;
+}
+
+#icon
+{
+	width:15%;
+	margin-right: 2%;
+}
+li{
+	list-style-type: none;
+}
+.corps_bas{
+  margin-top:10%;
+}
+
+.contenu_droit{
+    padding-bottom:5%;
+   margin-left:5%;
+    padding-right:3%;
+   background-color:  #F8F8F8;
+	
+  
+
+}
+
+.sommeil{
+	background-color: #F8F8F8;
+  margin-top:2%;
+  padding-top:2%;
+  padding-bottom:2;
+  padding-left:2%;
+  padding-right: 2%;
+   margin-left:2%;
+ 
+	
+	}
+	
+.photo-sommeil{
+	margin-top:15%;
+	margin-left: -20%;
+}
+
+.eveil{
+	background-color: #F8F8F8;
+  margin-top:2%;
+  padding-top:2%;
+  padding-bottom:2;
+  padding-left:2%;
+  padding-right: 2%;
+   margin-left:2%;
+ 
+}
+
+.photo-walking{
+	margin-left: -20%;
+	
+}
+
+
+.biberon{
+	background-color: #F8F8F8;
+  padding-top:2%;
+  padding-bottom:2;
+  padding-left:2%;
+  margin-left:2%;
+  padding-right: 2%;
+  margin-top:2%;
+  height:100px;
+ 
+}
+.photo-biberon{
+	margin-left: -20%;
+}
+.medical{
+	background-color: #F8F8F8;
+  padding-top:2%;
+  padding-bottom:2;
+  padding-left:2%;
+  margin-left:2%;
+  padding-right: 2%;
+  margin-top:2%;
+ 
+}
+
+.photo-medical{
+	margin-left: -20%;
+
+.livre{
+	margin-top:10%;
+}
+
+.image_livre{
+  width:100%;
+  margin-top:6%;
+  
+
+
+}
+#texte{
+	text-align: justify;
+}
+.lecture
+{
+	margin-left: 10%;
+}
+
+
+
+.eveil{
+	padding-top:15px;
+}
+
+
+h3
+{
+	margin-left:20%;
+}

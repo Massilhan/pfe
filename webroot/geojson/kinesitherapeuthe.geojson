@@ -1,0 +1,90 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.304483,48.830409 ]
+    },
+    "properties": {
+    "Professionnels":"Cabinet Josselin",
+    "adresse_complete":"15 rue Fizeau",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656707,
+    "categorie_de_l_etablissement":"Kinesitherapeute",
+    "num_type":"1",
+    "wgs84":"48.830409, 2.304483"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306133,48.844002 ]
+    },
+    "properties": {
+    "Professionnels":"Miladinovic Karolina ",
+    "adresse_complete":"34 rue Francois Bonvin ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653651,
+    "categorie_de_l_etablissement":"Kinesitherapeute",
+    "num_type":"1",
+    "wgs84":"48.844002, 2.306133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.300109,48.850256 ]
+    },
+    "properties": {
+    "Professionnels":"Cheret Louis ",
+    "adresse_complete":"51 avenue de la Motte-Picquet",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891656791,
+    "categorie_de_l_etablissement":"Kinesitherapeute",
+    "num_type":"1",
+    "wgs84":"48.850256, 2.300109"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.285679,48.843825 ]
+    },
+    "properties": {
+    "Professionnels":"Serre Ludwig ",
+    "adresse_complete":"100 C rue de Javel",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653522,
+    "categorie_de_l_etablissement":"Kinesitherapeute",
+    "num_type":"1",
+    "wgs84":"48.843825, 2.285679"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.312461,48.845668 ]
+    },
+    "properties": {
+    "Professionnels":"Kubis Gilbert",
+    "adresse_complete":"110 rue de Sevres ",
+    "dept":"Paris 15",
+    "cp_ville":75015,
+    "num_tel":891653661,
+    "categorie_de_l_etablissement":"Kinesitherapeute",
+    "num_type":"1",
+    "wgs84":"48.845668, 2.312461"
+    }
+  }
+]
+}

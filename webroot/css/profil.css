@@ -1,0 +1,166 @@
+body{
+	background-image: url('/img/fond.jpg')
+}
+.logo_nav-bare
+{
+
+	height:10%;
+	margin-left:15%;
+}
+
+.navbar
+{
+	background-color:#2bfcc9;
+	position: fixed;
+	font-family: 'Amatic SC';
+	top: 0;
+
+}
+
+h1:hover
+{
+	color:red;
+}
+
+h1
+{
+	color:black;
+
+}
+
+
+#conteneur{
+
+	background-color:#F8F8F8; 
+	border-style: solid;
+	border-color:#2bfcc9; 
+
+}
+
+#photo_profil{
+	width:100%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+
+}
+
+.nom
+{
+	margin-top:2%;
+	background-color: #2bfcc9;
+	text-align: center;
+
+
+}
+
+#infos{
+	margin-bottom: 5%;
+	margin-left: -20%;
+}
+
+.btn
+{
+	color: #fff;
+ 	background-color: #2bfcc9;
+  	border-color: #2bfcc9;
+  	width: 50%;
+  	font-size: 150%;
+
+}
+.btn-default:hover
+{
+	color: #fff;
+  	background-color: red;
+  	border-color:red;
+
+}
+.btn-primary:hover
+{
+	color: #fff;
+  	background-color: green;
+  	border-color:green;
+
+}
+
+.modif
+{
+	margin-left: 18%;
+}
+
+#icon
+{
+	width:15%;
+	margin-right: 2%;
+}
+li{
+	list-style-type: none;
+}
+.progress-bar{
+  background-color:#2BFCC9;
+  font-size:large;
+  color: black;
+}
+.progress_place{
+  padding-top:5%;
+}
+.image_orientation{
+  padding-left:25px;
+
+}
+.contenu_droit{
+   
+   padding-bottom:5%;
+   padding-left:2%;
+    padding-right:3%;
+   background-color:  #F8F8F8;
+
+}
+.photo_tete{
+  width:130%;
+  margin-left: -10%;
+}
+.corps_bas{
+  margin-top:10%;
+}
+
+.modal-content
+{
+
+	width: 150%;
+}
+label
+{
+	font-size: 150%;
+}
+.form-group
+{
+	color:#2bfcc9;
+	width: 70%;
+}
+.modal-title
+{
+	font-size: 300%;
+	color:#2bfcc9;
+}
+
+.update
+{
+	width: 20%;
+}
+.test
+{
+	font-size: 100%;
+	width: 100%;
+}
+
+.picture_modal
+{
+	height: 10%;
+	width: 10%;
+}
+
+.alert
+{
+	color:red;
+}
+
