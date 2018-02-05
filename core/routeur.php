@@ -11,9 +11,11 @@ class Router{
 	**/
 	static function parse($url,$request){
 		
-		$url=trim($url,'/');
+		//$url=trim($url,'/');
 		
-		$params=explode('/',$url);
+		
+		$params=explode('/',$url)[2];
+		
 		if(empty($url)){
 			$params[0]='login';
 			$request -> controller= $params[0];
