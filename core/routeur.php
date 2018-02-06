@@ -10,11 +10,15 @@ class Router{
 	*@return tableau contenant les paramètres
 	**/
 	static function parse($url,$request){
+
 		
-		//$url=trim($url,'/');
 		
+		$url=trim($url,'/');
+
 		
-		$params=explode('/',$url)[2];
+		$params=explode('/',$url);
+		
+
 		
 		if(empty($url)){
 			$params[0]='login';
