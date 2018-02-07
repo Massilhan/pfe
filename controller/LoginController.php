@@ -3,10 +3,10 @@ Class LoginController extends Controller{
 
 	function index(){
 
-		$this->loadModel('Login');
+		$this->loadModel('login');
 		 
 
-		$this->render('Login');
+		$this->render('login');
 		
 	}
 

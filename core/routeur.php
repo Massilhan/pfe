@@ -11,14 +11,7 @@ class Router{
 	**/
 	static function parse($url,$request){
 
-		
-		
-		$url=trim($url,'/');
-
-		
 		$params=explode('/',$url);
-		
-
 		
 		if(empty($url)){
 			$params[0]='login';
@@ -34,9 +27,7 @@ class Router{
 		
 			$request->params= array_slice($params,2);
 			
-		}
-		
-		
+		}		
 
 		return true;
 

@@ -23,12 +23,14 @@ Class Controller{
 
 
 		ob_start();
+
 		require ($view);
 		$content_for_layout=ob_get_clean();
-		require ROOT.DS.'view'.DS.'layout'.DS.$this->layout.'.php';
-		$this->rendered=true;
-		
+		$defaultLayout = ROOT.DS.'view'.DS.'layout'.DS.$this->layout.'.php';
 
+		require $defaultLayout;
+
+		$this->rendered=true;
 	}
 
 
@@ -43,6 +45,7 @@ Class Controller{
 	function loadModel($name){
 
 		$file=ROOT.DS.'Model'.DS.$name.'.php';
+
 		require_once($file);
 		
 		if(!isset($this->$name)){

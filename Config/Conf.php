@@ -8,7 +8,7 @@ class Conf{
 	'default' => array(
 		'host' => 'localhost',
 		'database' => 'raphy_pfe',
-		'login' => 'raphy',
-		'password' =>'pfeece'),
+		'login' => 'root',
+		'password' =>'root'),
 	);
 }
